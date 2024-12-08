@@ -1,6 +1,16 @@
-# 💫 About Me:
-🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+### Hi there! 👋  
 
+I'm a **Web Developer** with a background in **Computer Engineering**.  
+I specialize in **React.js**, **Next.js**, **Astro.js**, and **Tailwind CSS**.  
+I enjoy building modern, responsive, and user-friendly websites.
+
+
+# 💫 About Me:
+
+## Beyond coding, I love:  
+- 🌏 Exploring history  
+- 🎥 Watching anime & movies  
+- 🥾 Hiking  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sneh13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sneh.al) 
@@ -15,4 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sneh-al&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+Let’s create something amazing together! 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
