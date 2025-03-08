@@ -1,7 +1,7 @@
 ### Hi there! 👋  
 
 I'm a **Web Developer** with a background in **Computer Engineering**.  
-I Work  with **React.js**, **Next.js**, **Astro.js**, and **Tailwind CSS**.  
+I Work  with **React.js**, **Next.js** and **Astro.js**.  
 I enjoy building modern, responsive, and user-friendly websites.
 
 
